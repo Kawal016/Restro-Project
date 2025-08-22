@@ -26,7 +26,8 @@ The project allows users to manage restaurant operations, including menus, order
 - MySQL database
 
 ---
-
+##Admin Panel
+**Admin Panel:** Available for managing services and viewing contact messages. Login at `/AdminLogin.jsp` with demo credentials.
 ## Installation & Setup
 1. Clone the repository:
 
